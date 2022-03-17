@@ -3,15 +3,10 @@
 
 
 /**
-
 * main - finds and prints the largest factor of the number 612852475143
-
 * followed by a new line.
-
 *
-
 * Return: Always 0;
-
 */
 
 int main(void)
