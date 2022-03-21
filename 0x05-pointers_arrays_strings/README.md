@@ -1,0 +1,1 @@
+This is the Pointers and arrays task. the beginning of hard stuff
