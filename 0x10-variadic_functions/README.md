@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Variadic functions
 Project done during  Software Engineering studies at ALX School. It aims to learn about variadic functions in C language.
 
@@ -14,3 +15,6 @@ Filename	Description
 2-print_strings.c	Prints strings
 3-print_all.c	Prints anything
 100-hello_holberton.asm	Assembly that prints Hello, Holberton
+=======
+About C-variadic functions
+>>>>>>> variadic tasks
